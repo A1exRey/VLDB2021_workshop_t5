@@ -1,7 +1,7 @@
 # VLDB 2021 Crowd Science Challenge Workshop
 
 ## Introduction
-Source code of [**soon**](soon)
+Source code of [**Noisy text sequences aggregation as a summarization subtask**](soon)
 
 This approach is ranked in the 2nd place in the official run.
 
@@ -30,6 +30,8 @@ We provide all training and testing data in **data** folder.
 ### Evaluation
 
 ### Reproduction
+
+Our best model can be downloaded here https://drive.google.com/file/d/1mh69ZTA2hzXVjRN5JYdeAy72x9xJ_exB/view?usp=sharing
 
 
 ### Reference
